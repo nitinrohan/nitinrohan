@@ -69,15 +69,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinrohan&show_icons=true&hide_border=true&count_private=true" height="165" alt="Rohan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinrohan&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-</p>
-
----
-
 ### 📫 Reach me
 
 <p align="left">
