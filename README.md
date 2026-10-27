@@ -14,7 +14,7 @@
 
 - 🧠 I work across the full data lifecycle: **collection → cleaning → analysis → modeling → deployment**.
 - 📊 **Data Analyst / DS side:** exploratory analysis, statistics, A/B testing, and BI dashboards that answer real business questions.
-- 🤖 **ML Engineer side:** training, fine-tuning, and shipping models behind clean, tested APIs — not just notebooks.
+- 🤖 **ML Engineer side:** training, fine-tuning, implementing   RAG pipelines and shipping models behind clean, tested APIs — not just notebooks.
 - ☁️ Comfortable deploying on the **cloud (AWS & Azure)** and building with modern **AI dev tooling (Claude Code)**.
 - 🛠️ Currently building **FitTrack AI**, an end-to-end AI fitness tracker (FastAPI + Next.js + PostgreSQL) with a provider-independent AI layer.
 - 🌱 Always learning: MLOps, scalable data pipelines, and production-grade LLM applications.
